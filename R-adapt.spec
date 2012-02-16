@@ -7,7 +7,7 @@ Release:          1
 Summary:          adapt -- multidimensional numerical integration
 Group:            Sciences/Mathematics
 License:          Unclear (Fortran) -- code in Statlib's ./S/adapt
-URL:              None
+URL:              http://cran.r-project.org/web/packages/adapt/index.html
 Source0:          http://cran.r-project.org/src/contrib/Archive/adapt/adapt_1.0-4.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 %rename R-cran-adapt
