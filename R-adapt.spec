@@ -39,3 +39,38 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+
+
+%changelog
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0_4-1
++ Revision: 774811
+- Update and rebuild with R2spec
+- Update and rebuild with R2spec
+
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 1.0.4-7mdv2011.0
++ Revision: 616445
+- the mass rebuild of 2010.0 packages
+
+* Tue Sep 08 2009 Thierry Vignaud <tv@mandriva.org> 1.0.4-6mdv2010.0
++ Revision: 433070
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 1.0.4-5mdv2009.0
++ Revision: 260120
+- rebuild
+
+* Fri Jul 25 2008 Thierry Vignaud <tv@mandriva.org> 1.0.4-4mdv2009.0
++ Revision: 248095
+- rebuild
+
+* Fri Feb 29 2008 Tomasz Pawel Gajc <tpg@mandriva.org> 1.0.4-2mdv2008.1
++ Revision: 176960
+- remove requires on libR.so
+
+* Sun Feb 17 2008 Tomasz Pawel Gajc <tpg@mandriva.org> 1.0.4-1mdv2008.1
++ Revision: 169982
+- complete spec file
+- fix Url
+- add source and spec file
+- Created package structure for R-cran-adapt.
+
