@@ -2,7 +2,7 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          1.0_4
+Version:          1.0.4
 Release:          1
 Summary:          adapt -- multidimensional numerical integration
 Group:            Sciences/Mathematics
@@ -73,4 +73,5 @@ rm -f %{buildroot}%{rlibdir}/R.css
 - fix Url
 - add source and spec file
 - Created package structure for R-cran-adapt.
+
 
