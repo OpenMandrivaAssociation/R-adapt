@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0_4
-Release:          1
+Release:          2
 Summary:          adapt -- multidimensional numerical integration
 Group:            Sciences/Mathematics
 License:          Unclear (Fortran) -- code in Statlib's ./S/adapt
